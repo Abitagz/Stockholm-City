@@ -19,10 +19,13 @@ This site is for learning purpose! A site to show the beauty of Stockholm city i
 * As a first time coder i want to promote my first website using HTML and CSS
 
 
+# CSS checker showed No error. 
+* (link from live project)https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fabitagz.github.io%2FStockholm-City%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv* 
 
+# Html checker showed No error
+* https://validator.w3.org/nu/?doc=https%3A%2F%2Fabitagz.github.io%2FStockholm-City%2F## Credits
 
 ## Credits
-
 ### Content  
 * This site is from Julio Codes youtuber beginner tutorial. All the credit to him. I only changes the text and pictures.
 * The pictures are from pexels.com, the text is from google and stockholm stad website.
