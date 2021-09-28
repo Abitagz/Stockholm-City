@@ -1,9 +1,7 @@
 
+![responsive-screenshot](https://user-images.githubusercontent.com/87263683/135176269-0c77f79a-6d7d-4720-b2ef-be9af03ed89c.png)
 
 
-
-
-![Responsive Screenshot Mockup](/assets/images/responsive-screenshot.png)
 
 
 
