@@ -7,25 +7,21 @@ This site is for learning purpose! A site to show the beauty of Stockholm city i
 
 
 
-
-
-
-
 ### User Stories
-* As a user I want to easily understand about the website.
-* As a user I want to know more about the city.
-* As a user I want to easily find out about the history .
-* As a user I want to easily contact someone about the race.
+* As a user I want to easily understand about the content of the site.
+* As a user I want to enjoy the site while reading the text.
 * As a first time coder i want to promote my first website using HTML and CSS
 
-
-### CSS checker showed No error. 
+### Testing
+* I tested through out building the site and fixing errors in the mean time.
+### Testing results
+* CSS checker showed No error. 
 * (link from live project)https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fabitagz.github.io%2FStockholm-City%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv* 
 
-### Html checker showed No error
+* Html checker showed No error
 * https://validator.w3.org/nu/?doc=https%3A%2F%2Fabitagz.github.io%2FStockholm-City%2F## Credits
 
 ## Credits
 ### Content  
-* This site is from Julio Codes youtuber beginner tutorial. All the credit to him. I only changes the text and pictures.
+* This site is from Julio Codes (a youtuber) from his beginner tutorial. All the credit to him. I only changes the text and pictures.
 * The pictures are from pexels.com, the text is from google and stockholm stad website.
