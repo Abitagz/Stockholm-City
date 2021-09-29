@@ -74,6 +74,8 @@ body{
     font-weight: 300;
 }
 
+/* add anmimation */
+
 @keyframes cycleImages {
     25%{
         opacity: 1;
