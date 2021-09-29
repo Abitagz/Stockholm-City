@@ -1,6 +1,6 @@
 # Stockholm City 
 ## Introduction
-This site is for image slideshow and it's for learning purpose only! 
+This site is image slideshow with css animation and it's for learning purpose only! 
 A site to show the beauty of Stockholm city in a very short text with the support of 3 pictures image slidshow to give the over all idea of stockholm. The site is targetted towards people with an interest in visiting different city. This site might not be enough to know about stockholm but it will be useful as a starter for those looking for new adventure.
 
 
